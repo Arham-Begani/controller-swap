@@ -1,0 +1,10 @@
+{
+  "command": "python -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "seconds": 12.364,
+  "scope": "Public copy with private-archive dependent test modules excluded",
+  "tests": 61,
+  "recorded_at": "2026-11-06T19:48:25.176466+00:00",
+  "python": "3.12.10",
+  "live_model_calls": 0
+}

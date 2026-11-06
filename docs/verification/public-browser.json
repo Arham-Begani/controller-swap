@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-11-06T19:47:26.459689+00:00",
+  "status": "passed",
+  "checks": [
+    "Dashboard renders with status from the API",
+    "Fixture generation creates exactly 72 sessions and is idempotent",
+    "Interactive choices persist through four API steps and complete the mock task",
+    "Standing and simulated-AI fixture workflows complete through the UI",
+    "Evidence selector changes exact records and shows origins only in complete view",
+    "Different fixture control arrangements have identical public inputs; comparison fits desktop and mobile",
+    "Complete-origin and worker-style differences are highlighted; changing a selector clears stale comparison",
+    "Pending comparisons lock selectors against stale results and evidence regions support keyboard scrolling",
+    "Collision audit renders exact finite-sample ceilings and downloads matching 48-session evidence groups",
+    "All nine local diagnostic method/view combinations render held-out results and undefined answered-error",
+    "File input imports validated predictions through API and database",
+    "Evaluator UI shows real elapsed time, retains a simulated timeout, and saves only after explicit retry; history fits mobile",
+    "Bundle download contains all persisted sessions and no falsely verified research data",
+    "All five sections fit a 390px viewport without page-level horizontal overflow"
+  ],
+  "javascript_errors": [],
+  "failed_requests": [],
+  "live_model_calls": 0
+}
