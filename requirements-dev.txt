@@ -1,0 +1,2 @@
+# Optional browser-test dependency; the application itself uses the standard library.
+playwright==1.63.0
