@@ -1,0 +1,23 @@
+[
+  {
+    "file": "fraunces-regular.woff2",
+    "source": "https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nhr1K03gg7S2nfgRYIchRuTCf7T.woff2",
+    "css": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@72,500&display=swap",
+    "bytes": 18268,
+    "sha256": "93cc1fd57591c7679228704068e09b0586050ae3494813799b91196a10378abb"
+  },
+  {
+    "file": "fraunces-italic.woff2",
+    "source": "https://fonts.gstatic.com/s/fraunces/v38/6NVf8FyLNQOQZAnv9ZwNjucMHVn85Ni7emAe9lKqZTnbB-gzTK0K1ChJdt9vIVYX9G37lgd-sPEKsxx664UJf1h5Tc7RrU8.woff2",
+    "css": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,72,500&display=swap",
+    "bytes": 22824,
+    "sha256": "d208ae678493386f282dd08b263eee87eab21bdfc00312869972406cc4d7e1c9"
+  },
+  {
+    "file": "manrope-latin.woff2",
+    "source": "https://github.com/google/fonts/tree/main/ofl/manrope",
+    "bytes": 24532,
+    "sha256": "8c2def024c1bf31aacf3624ae3c4d701269b4ec3dc765c04830839f0d36b2d9e",
+    "provenance": "Existing OFL font asset copied unchanged with its accompanying copyright and license notice."
+  }
+]

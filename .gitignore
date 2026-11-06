@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.runtime/
+data/
+artifacts/
+*.sqlite3*
+.env
+.env.*
+node_modules/
+*.zip
+*.gguf
+*.wasm
